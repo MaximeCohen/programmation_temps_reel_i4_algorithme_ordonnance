@@ -12,6 +12,6 @@ Etape 2 : Constituer une collection d'une dizaine d'instances de Tache à ordonn
 
 Etape 3 : En boucle, déterminer la tâche à exécuter et son temps d'exécution, selon les critères de l'algorithme et l'afficher à l'écran (mode console).
 
-### Livrable
+### Livrable
 
 Pseudo-algorithme ou code dans le langage de votre choix accompagné d'une description des données d'entrée (champs de la classe) en pdf ou lien sur dépôt public git (github, gitlab, framagit, ...).
